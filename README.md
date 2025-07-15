@@ -33,8 +33,20 @@
 
 如果无法收到任务来自网页的任务， 可尝试将证书添加为系统信任
 
-https://greasyfork.org/zh-CN/scripts/542549-自动嗅探m3u8链接-并支持推送到本地m3u8下载
+https://greasyfork.org/zh-CN/scripts/542549-自动嗅探m3u8链接-并支持推送到本地m3u8下载 
+. 
 
+. 
+
+这里单独演示一下，从网页推送下载任务到本地下载器，这个过程中无缝衔接。
+
+第一步；打开目标网页， 一旦嗅探到链接， 会显示在屏幕右下角。 
+
+![22](https://github.com/user-attachments/assets/9334f383-bd5c-43bc-805c-2bc5ed0e4e6d)
+
+第二步；查看本地下载器，任务已经在下载了
+
+![2](https://github.com/user-attachments/assets/75bb16cf-eaa7-45d9-b6c0-4cf61db623ba)
 
 
 
